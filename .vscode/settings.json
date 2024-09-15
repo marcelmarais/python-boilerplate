@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "src/",
+  "python.analysis.extraPaths": ["src/"],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#3B196A",
+    "titleBar.activeBackground": "#532495",
+    "titleBar.activeForeground": "#FDFDFE"
+  }
+}
